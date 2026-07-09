@@ -289,7 +289,7 @@ Download `ai4i2020.csv` from [UCI ML Repository](https://archive.ics.uci.edu/dat
 
 - **GitHub Repository:** [github.com/sanjay071202/predictive-Maintenance](https://github.com/sanjay071202/predictive-Maintenance)
 - **Dataset:** [UCI AI4I 2020 Predictive Maintenance](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset)
-- **LinkedIn:** [linkedin.com/in/sanjay72002](https://linkedin.com/in/sanjay72002)
+
 
 ---
 
