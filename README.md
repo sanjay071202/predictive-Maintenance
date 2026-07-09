@@ -1,7 +1,7 @@
 # 🏭 Contextual Predictive Maintenance — IoT Edge AI
 
 > **Infotact Solutions DS/ML Internship | 2026**
-> Intern: Sanjay R | Branch: `pred`
+> Intern: Sanjay , Jinsha | Branch: `pred`
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
 [![LightGBM](https://img.shields.io/badge/LightGBM-Latest-green)](https://lightgbm.readthedocs.io)
